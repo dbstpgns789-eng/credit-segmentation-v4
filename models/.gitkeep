@@ -1,0 +1,2 @@
+# This file keeps the models/ directory structure in git
+# Actual model files (.pkl) are excluded via .gitignore

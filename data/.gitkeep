@@ -1,0 +1,2 @@
+# This file keeps the data/ directory structure in git
+# Actual data files (.parquet) are excluded via .gitignore
